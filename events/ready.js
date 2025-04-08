@@ -3,7 +3,7 @@ const chalk = require('chalk');
 module.exports = {
   name: 'ready',
   execute(client) {
-    console.log(chalk.green('Bot Status: ') + chalk.cyan('Initialized'));
+    console.log(`${client.user.tag} is online!`);
 
     const ticketChannel = client.channels.cache.get(client.config.ticketChannel);
 
