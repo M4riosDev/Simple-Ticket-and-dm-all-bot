@@ -1,20 +1,9 @@
 {
   "clientId": "",
   "guildId": "",
-   "prefix": "!",
-   "allowDMsWithoutPrefix": true,
   "token": "",
-  "ticketChannel": "",
   "parentOpened": "",
   "roleSupport": "",
-  "roleAdmin": "",
-  "roleBilling": "",
-  "roleOwner": "",
   "logsTicket": "",
-  "categories": {
-    "support": "",
-    "reports": "",
-    "billing": "",
-    "owner": ""
-  }
+  "ticketChannel": ""
 }
